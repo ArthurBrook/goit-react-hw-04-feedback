@@ -1,0 +1,15 @@
+.feedbackOptions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.feedbackOptions button {
+  padding: 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.feedbackOptions button:hover {
+  background-color: #eee;
+}
